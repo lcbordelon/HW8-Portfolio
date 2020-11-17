@@ -14,6 +14,14 @@ body {
   text-align: center;
 }
 
+#portfolio {
+  background-color: saddlebrown;
+  align-items: center;
+  text-align: center;
+  font-size: large;
+  color: white;
+}
+
 /* footer text color */
 #footer a {
   color: white;
